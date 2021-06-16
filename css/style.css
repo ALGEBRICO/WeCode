@@ -1,0 +1,13 @@
+h1 {color:royalblue;}
+
+body {font-family:'Courier New', Courier, monospace;}
+
+ul,ol {font-weight: bold;}
+
+.lighter {
+    font-weight: lighter;
+}
+
+.insider {
+    list-style: inside;
+}
